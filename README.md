@@ -1,5 +1,7 @@
 # ASE Delivery Hardware
 
+TEST FOR GIT-SUBMODULE-TEST
+
 Box code
 
 customer rfid: ```1234567```   
